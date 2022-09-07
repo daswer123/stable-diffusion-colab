@@ -54,8 +54,6 @@ condaenv.*.requirements.txt
 /custom-conda-path.txt
 /src/*
 /outputs/*
-
-# optimizedSD:
 /log/**/*.png
 /log/log.csv
 /flagged/*
