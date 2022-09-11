@@ -2,10 +2,12 @@
 
 ## 1. voldy or AUTOMATIC1111 version 
 Description and Features: https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase
+
 **Colab link: https://colab.research.google.com/drive/1zN99ZouzlYObQaPfzwbgwJr6ZqcpYK5-?usp=sharing#scrollTo=xt8lbdmC04ox**
 
 ## 2. Hiky or GUITard version
 Description and Features: https://github.com/sd-webui/stable-diffusion-webui
+
 **Colab link: https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4#scrollTo=q7HY6oWODtjn**
 
 # Useful Links:
