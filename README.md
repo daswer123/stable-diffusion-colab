@@ -10,6 +10,9 @@ Description and Features: https://github.com/sd-webui/stable-diffusion-webui
 
 **Colab link: https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4#scrollTo=q7HY6oWODtjn**
 
+## 3. ***FU
+**Colab link: https://colab.research.google.com/drive/1Bt6phG-uscuDPUrqVwZjAsN8V6QBloVG#scrollTo=bPyY7QA7Ud68**
+
 # Useful Links:
 ### 1. [**Artist list with pictures**](https://rentry.org/artists_sd-v1-4)
 ### 2.- [Inpainting Tips](https://rentry.org/drfar)
