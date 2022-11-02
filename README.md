@@ -5,12 +5,7 @@ Description and Features: https://github.com/AUTOMATIC1111/stable-diffusion-webu
 
 **Colab link: https://colab.research.google.com/drive/1zN99ZouzlYObQaPfzwbgwJr6ZqcpYK5-?usp=sharing#scrollTo=xt8lbdmC04ox**
 
-## 2. Hiky or GUITard version
-Description and Features: https://github.com/sd-webui/stable-diffusion-webui
-
-**Colab link: https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4#scrollTo=q7HY6oWODtjn**
-
-## 3. ***FU
+## 2. ***FU
 **Colab link: https://colab.research.google.com/drive/1Bt6phG-uscuDPUrqVwZjAsN8V6QBloVG#scrollTo=bPyY7QA7Ud68**
 
 # Useful Links:
@@ -27,3 +22,7 @@ Description and Features: https://github.com/sd-webui/stable-diffusion-webui
 
 ->**SAMPLER COMPARISON**<-
 ![Sampler Comparison](https://i.ibb.co/vm4fm7L/1661440027115223.jpg)
+
+### Hiky or GUITard version ( outdated )
+Description and Features: https://github.com/sd-webui/stable-diffusion-webui
+**Colab link: https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4#scrollTo=q7HY6oWODtjn**
