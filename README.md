@@ -3,7 +3,7 @@
 ## 1. voldy or AUTOMATIC1111 version 
 Description and Features: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
 
-**Colab link: https://colab.research.google.com/drive/1zN99ZouzlYObQaPfzwbgwJr6ZqcpYK5-?usp=sharing#scrollTo=xt8lbdmC04ox**
+**Colab link: https://colab.research.google.com/drive/1wriLAuWlY1xlfq_Zpq0Fk5WgFTRFyyOG?usp=sharing**
 
 ## 2. ***FU
 **Colab link: https://colab.research.google.com/drive/1Bt6phG-uscuDPUrqVwZjAsN8V6QBloVG#scrollTo=bPyY7QA7Ud68**
@@ -25,4 +25,11 @@ Description and Features: https://github.com/AUTOMATIC1111/stable-diffusion-webu
 
 ### Hiky or GUITard version ( outdated )
 Description and Features: https://github.com/sd-webui/stable-diffusion-webui
+
 **Colab link: https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4#scrollTo=q7HY6oWODtjn**
+
+### voldy or AUTOMATIC1111 old version ( outdated )
+
+Description and Features: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
+
+**Colab link: https://colab.research.google.com/drive/1zN99ZouzlYObQaPfzwbgwJr6ZqcpYK5-?usp=sharing**
