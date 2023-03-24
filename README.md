@@ -1,6 +1,6 @@
 # Stable diffusion colabs
 
-## 1. voldy or AUTOMATIC1111 version 
+## 1. voldy or AUTOMATIC1111 version ( OUTDATED )
 Description and Features: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
 
 **Colab link: https://colab.research.google.com/drive/1wriLAuWlY1xlfq_Zpq0Fk5WgFTRFyyOG?usp=sharing**
